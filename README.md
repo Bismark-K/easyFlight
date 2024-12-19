@@ -13,7 +13,7 @@ Welcome to EasyFlight, a user-friendly flight booking website designed to make y
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: Node.js, Express
+- **Backend**: Python(Django)
 - **Database**: MongoDB
 - **Authentication**: JWT, OAuth
 
