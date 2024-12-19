@@ -1,0 +1,8 @@
+# Frontend
+frontend/node_modules/
+
+# Backend
+env/
+*.pyc
+__pycache__/
+db.sqlite3
